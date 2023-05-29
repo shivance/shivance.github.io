@@ -1,14 +1,15 @@
 ---
 layout: page
-title: VanillaNN vs Physics informed Neural Networks
+title: MultiGPU Training with Huggingface Accelearte
 
 img: assets/img/kaggle.png
 direction: right
 
 importance: 4
-category: fun
+category: competition
 
-link: https://www.kaggle.com/code/shivanshuman/vanilla-nn-vs-physics-informednn/notebook
+link: https://www.kaggle.com/code/shivanshuman/multi-gpu-with-huggingface-accelerate
+blog: https://www.kaggle.com/code/shivanshuman/multi-gpu-with-huggingface-accelerate
 
-summary: <ul class="card-text"><li>This was a fun project while I was learning about Physics Informed Neural Network and contributing to deepchem library</li><li>Used Jax to implement and compare the performance of PINNs with Neural Networks in system dynamics modeling scenerio.</li><li> The code is available publically on Kaggle</li></ul>
+summary: <ul class="card-text"><li>This notebook is a perfect guide to get started with training models on Multiple GPUs </li><li>Used Huggingface Accelrate and Kaggle's T4 GPUs for the demonstration</li><li> The code is available publically on Kaggle</li></ul>
 ---
