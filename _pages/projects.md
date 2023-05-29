@@ -6,7 +6,7 @@ description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
 display_categories: [work, competition, opensource, fun]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
@@ -23,7 +23,7 @@ horizontal: true
   
     <div class="row">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects.html %}
     {%- endfor %}
     </div>
   </div>
@@ -44,7 +44,7 @@ horizontal: true
   <div class="container">
     <div class="row">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects.html %}
     {%- endfor %}
     </div>
   </div>
