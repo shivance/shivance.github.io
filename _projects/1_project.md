@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributing UNet to Julia ModelZoo
-description: a project with a background image
+summary:
 
 img: assets/img/julia.png
 direction: right
