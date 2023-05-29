@@ -6,7 +6,7 @@ img: assets/img/julia.png
 direction: right
 
 importance: 1
-# category: opensource
+category: opensource
 
 link: https://github.com/FluxML/Metalhead.jl/pull/210
 github: https://github.com/FluxML/Metalhead.jl/pull/210
