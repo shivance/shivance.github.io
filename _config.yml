@@ -159,8 +159,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  
+  - name: "Kaggle x Julia : Advanced House Price Prediction : EDA"
+    rss_url: https://shivance.medium.com/kaggle-x-julia-advanced-house-price-prediction-eda-1124b9a96f97
+
+  - name: "Flux.jl is so flexible — Deep Learning in Julia"
+    rss_url: https://juliazoid.com/fluxible-unet-c71e411c8b2d
 
 # -----------------------------------------------------------------------------
 # Collections
