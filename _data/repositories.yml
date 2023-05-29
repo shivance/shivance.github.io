@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shivance
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - keras-team/keras-nlp
+  - deepchem/deepchem
+  - FluxML/Metalhead.jl
+  - keras-team/keras-io
+  - shivance/Translate-with-TransformERs
+  - Technocrats-nitw/GOVID
+  - shivance/Super-Mario
