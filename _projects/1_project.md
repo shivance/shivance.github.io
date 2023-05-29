@@ -9,6 +9,7 @@ direction: right
 importance: 1
 category: opensource
 
+link: https://github.com/FluxML/Metalhead.jl/pull/210
 github: https://github.com/FluxML/Metalhead.jl/pull/210
 blog: https://medium.com/juliazoid/fluxible-unet-c71e411c8b2d
 advisor: Kyle Daruwalla
