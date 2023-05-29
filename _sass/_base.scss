@@ -85,6 +85,7 @@ blockquote {
 .card-body{
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 
 .card .card-body .card-text {
@@ -147,6 +148,7 @@ blockquote {
       display: flex;
       // align-items: center;
       flex-direction: column;
+      width: 100%;
     }
   }
 }
@@ -588,6 +590,7 @@ footer.sticky-bottom {
       display: flex;
       // align-items: center;
       flex-direction: column;
+      width: 100%;
     }
   }
 
@@ -599,6 +602,7 @@ footer.sticky-bottom {
   .grid{
     display: flex;
     flex-direction: column;
+    width: 100%;
   }
   
   h2.category {
@@ -614,6 +618,7 @@ footer.sticky-bottom {
 .project-container{
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 
 // Publications
