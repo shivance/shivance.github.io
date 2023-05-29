@@ -95,8 +95,8 @@ blockquote {
 /* Landscape phones and portrait tablets */
 @media (max-width: 900px) {
   .card-img {
-display: none;
-}
+    display:flex
+  }
 }
 
 .card-img{
@@ -573,12 +573,14 @@ footer.sticky-bottom {
       }
     }
   }
+
   .card-item {
     width: auto;
     margin-bottom: 10px;
 
     .row {
       display: flex;
+      flex-direction: column;
       align-items: center;
     }
   }
