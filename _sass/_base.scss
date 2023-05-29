@@ -104,16 +104,16 @@ blockquote {
 }
 
 .card-img{
-  padding: 1rem;
-  
-  // width: fit-content;
-  // height: fit-content;
+  padding: 1rem;  
+  width: fit-content;
+  height: fit-content;
   
 }
 
 .card {
   box-shadow: none;
   background-color: var(--global-card-bg-color);
+
 
   img {
     width: 100%;
@@ -604,6 +604,10 @@ footer.sticky-bottom {
   }
 }
 
+.project-container{
+  display: flex;
+  flex-direction: column;
+}
 
 // Publications
 
