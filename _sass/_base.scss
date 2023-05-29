@@ -146,6 +146,7 @@ blockquote {
     .row {
       display: flex;
       // align-items: center;
+      flex-direction: column;
     }
   }
 }
@@ -586,6 +587,7 @@ footer.sticky-bottom {
     .row {
       display: flex;
       // align-items: center;
+      flex-direction: column;
     }
   }
 
