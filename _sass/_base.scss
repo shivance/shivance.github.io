@@ -594,6 +594,11 @@ footer.sticky-bottom {
     margin-bottom: 10px;
   }
 
+  .grid{
+    display: flex;
+    flex-direction: column;
+  }
+  
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
