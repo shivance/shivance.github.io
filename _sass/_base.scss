@@ -83,16 +83,56 @@ blockquote {
 
 // Card
 
+.card .card-body .card-text {
+  font-size: .9rem;
+  font-weight: 300;
+  color: black;
+  padding: 0,0,0,0;
+}
+
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 900px) {
+  .card-img {
+display: none;
+}
+}
+
+.card-img{
+  padding: 1rem;
+  
+  // width: fit-content;
+  // height: fit-content;
+  
+}
+
 .card {
+  box-shadow: none;
   background-color: var(--global-card-bg-color);
 
   img {
     width: 100%;
+    border-radius: 1rem;
+  }
+  
+  .card-text{
+    color: var(--global-text-color);
+    font-size: 0.2rem;
+    font-weight: 300
   }
 
   .card-title {
     color: var(--global-text-color);
+    font-size: 1.05rem;
+    font-family: "roboto", sans-serif;
+    font-weight: bolder;
   }
+
+  .card-subtitle {
+    color: var(--global-text-color);
+    font-size: 0.7rem;
+  }
+
 
   .card-item {
     width: auto;
