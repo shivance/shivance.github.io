@@ -5,8 +5,8 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [work, competition, opensource, fun]
-horizontal: false
+# display_categories: [work, competition, opensource, fun]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -19,11 +19,10 @@ horizontal: false
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
-  <div class="container project-container">
-  
+  <div class="container">
     <div class="row">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
@@ -44,7 +43,7 @@ horizontal: false
   <div class="container">
     <div class="row">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
