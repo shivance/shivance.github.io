@@ -11,4 +11,4 @@ redirect_from:
 <!-- 
 <embed src="{{ site.baseurl }}/files/Anshuman_Resume.pdf" type="application/pdf" width="600px" height="500px"/> -->
 
-<object data="../assets/pdf/Anshuman_Resume.pdf" width="600px" height="800px">
+<object data="../assets/pdf/Anshuman_Resume.pdf" width="800px" height="1000px">
