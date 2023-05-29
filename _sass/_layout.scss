@@ -24,6 +24,8 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: $max-content-width;
+  display: flex;
+  flex-direction: column;
 }
 
 // Profile

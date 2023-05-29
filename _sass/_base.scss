@@ -538,6 +538,12 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
+
+  .container{
+    display: flex;
+    flex-direction: column;
+  }
+
   a {
     text-decoration: none;
 
