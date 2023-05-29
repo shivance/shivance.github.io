@@ -506,13 +506,32 @@ footer.sticky-bottom {
       }
     }
   }
-
   .card {
     img {
       width: 100%;
     }
+    
   }
 
+  .links{
+    .btn {
+      color: var(--global-text-color);
+      // border: 1p var(--global-text-color);
+      border-radius: 1rem;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.25rem;
+      padding-bottom: 0.25rem;
+      margin-left: 0;
+      background-color: rgba($red-color-dark, 0.3);;
+      &:hover {
+        color: var(--global-theme-color);
+        border: 0.07rem solid black;
+        border-color: black;
+        background-color: white;
+      }
+    }
+  }
   .card-item {
     width: auto;
     margin-bottom: 10px;
@@ -523,8 +542,7 @@ footer.sticky-bottom {
     }
   }
 
-  .grid-sizer,
-  .grid-item {
+  .grid-sizer, .grid-item {
     width: 250px;
     margin-bottom: 10px;
   }
