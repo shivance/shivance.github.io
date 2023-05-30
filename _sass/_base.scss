@@ -108,14 +108,15 @@ blockquote {
 @media (max-width: 900px) {
   .card-img {
     display:flex
+    
   }
 }
 
 .card-img{
   padding: 1rem;  
-  width: fit-content;
-  height: fit-content;
-  
+  width:auto
+  height:auto;
+  align-items: center;
 }
 
 .card {
