@@ -589,7 +589,7 @@ footer.sticky-bottom {
     .row {
       display: flex;
       // align-items: center;
-      flex-direction: column;
+      // flex-direction: column;
       // width: 100%;
     }
   }
@@ -601,7 +601,7 @@ footer.sticky-bottom {
 
   .grid{
     display: flex;
-    flex-direction: column;
+    // flex-direction: column;
     // width: 100%;
   }
   
@@ -613,13 +613,23 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
     text-align: right;
   }
+
+  .container{
+    display: flex;
+    flex-direction: column;
+
+    .row{
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+  .row{
+    display: flex;
+    flex-direction: column;
+  }
 }
 
-.project-container{
-  display: flex;
-  flex-direction: column;
-  // width: 100%;
-}
 
 // Publications
 
@@ -796,10 +806,6 @@ footer.sticky-bottom {
   }
 }
 
-.projects.container.row {
-  display: flex;
-  flex-direction: column;
-}
 
 // Rouge Color Customization
 figure.highlight {
