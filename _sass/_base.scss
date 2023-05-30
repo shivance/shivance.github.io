@@ -796,6 +796,11 @@ footer.sticky-bottom {
   }
 }
 
+.projects.container.row {
+  display: flex;
+  flex-direction: column;
+}
+
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;
