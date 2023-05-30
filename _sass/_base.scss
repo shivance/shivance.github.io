@@ -81,6 +81,13 @@ blockquote {
   text-align: center;
 }
 
+// Project Row
+
+.project-row {
+  display: flex;
+  flex-direction: column;
+}
+
 // Card
 // .card-body{
 //   display: flex;
