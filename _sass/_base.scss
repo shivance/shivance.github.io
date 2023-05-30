@@ -107,16 +107,18 @@ blockquote {
 /* Landscape phones and portrait tablets */
 @media (max-width: 900px) {
   .card-img {
-    display:flex
-    
+    display:flex;
+    flex-direction: column;
   }
 }
 
 .card-img{
   padding: 1rem;  
-  width:auto;
-  height:auto;
+  // width:auto;
+  // height:auto;
   align-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .card {
