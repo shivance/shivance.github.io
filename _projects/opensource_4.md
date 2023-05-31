@@ -4,7 +4,7 @@ title: Masked Language Modeling with ALBERT
 
 img: assets/img/albert-mlm.png
 
-importance: 2
+importance: 4
 category: opensource
 direction: left
 
