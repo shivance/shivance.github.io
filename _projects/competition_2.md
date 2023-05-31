@@ -1,15 +1,17 @@
 ---
 layout: page
-title: MultiGPU Training with Huggingface Accelearte
+title: GOVID - Hackon with Amazon - National Finalist
 
-img: assets/img/kaggle.png
+img: assets/img/hackon.png
 
 importance: 2
 category: competition
-direction: left
+direction: right
 
-link: https://www.kaggle.com/code/shivanshuman/multi-gpu-with-huggingface-accelerate
-blog: https://www.kaggle.com/code/shivanshuman/multi-gpu-with-huggingface-accelerate
+summary: <ul class="card-text"><li>Hackon with Amaozon was hackathon organized by Amazon India</li><li>Our team developed a Cross Platform Clinical-NLP solution to assist doctor and patients during the time of COVID-19</li><li>Top 10/900+ teams</li><li>Developed a BERT based chatbot</li></ul>
 
-summary: <ul class="card-text"><li>This notebook is a perfect guide to get started with training models on Multiple GPUs </li><li>Used Huggingface Accelrate and Kaggle's T4 GPUs for the demonstration</li><li> The code is available publically on Kaggle</li></ul>
+link: https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves
+
+github: https://github.com/Technocrats-nitw/GoVID
 ---
+
