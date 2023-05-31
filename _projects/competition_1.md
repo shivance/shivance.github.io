@@ -1,6 +1,6 @@
 ---
 layout: page
-title: G2Net Detecting Gravitational Waves
+title: G2Net Detecting Gravitational Waves (Kaggle)
 
 img: assets/img/g2net.png
 
