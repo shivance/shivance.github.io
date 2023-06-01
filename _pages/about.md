@@ -22,6 +22,6 @@ Hi ! I am Anshuman Mishra. I've just graduated from [NIT Warangal](https://nitw.
 
 I am currently interning at [BNY Mellon](https://www.bnymellon.com) as a Data Scientist, where I am working on Deposit Models, Balancesheet forecasting, and Optimization problems. Previously, I used to  work in Risk and Fraud Detection team at [Amazon Pay](https://pay.amazon.com/). As an intern there, I developed a software for detecting abusive cashbacks on real-time transactions, from scratch.
 
-I've learned Data Science from Kaggle, where I am[Master](https://kaggle.com/shivanshuman/) in ranking tiers, where I mainly publish Notebooks on topics of my interests. I also am an active in discussions forums there.
+I've learned Data Science from Kaggle, where I am [Master](https://kaggle.com/shivanshuman/) in ranking tiers, where I mainly publish Notebooks on topics of my interests. I also am an active in discussions forums there.
 
 Feel free to reach me out on Linkedin or Twitter!
