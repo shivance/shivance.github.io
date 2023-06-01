@@ -15,9 +15,9 @@
 
         <div class="card-body col-md-9">
           <h3 class="card-title font-weight-bold">{{project.title}}</h3>
-          
+          {%- if project.github %}
           <h4 class="card-subtitle" markdown = "1">Guide: *[{{project.advisor}}]({{project.advisor_link}})*</h4>
-          
+          {%- endif %}
           <div class="links">
             {%- if project.github %}
               <a href="{{ project.github }}" class="bibtex btn btn-sm z-depth-0" role="button">GitHub</a>

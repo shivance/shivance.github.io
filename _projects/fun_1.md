@@ -2,7 +2,7 @@
 layout: page
 title: MultiGPU Training with Huggingface Accelearte
 
-img: assets/img/kaggle.png
+img: assets/img/hf_xlr8.png
 
 importance: 1
 category: fun
