@@ -37,7 +37,7 @@ The organisations, institutes, and programs I am currently working for (or under
 <p align="center">
 
 <p style="display:flex; justify-content:space-between;">
-<a href="https://tensorflow.org" target="_blank"><img src="" style="width: 220px"/></a>
+<a href="https://tensorflow.org" target="_blank"><img src="assets/img/tensorflow.png" style="width: 220px"/></a>
 <a href="https://keras.io" target="_blank"><img src="assets/img/keras.png" style="width: 220px"/></a>
 <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="assets/img/gsoc.png" style="width: 180px"/></a>
 </p>
