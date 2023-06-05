@@ -26,6 +26,10 @@ I've learned Data Science from Kaggle, where I am [Master](https://kaggle.com/sh
 
 Feel free to reach me out on Linkedin or Twitter!
 
+
+
+
+
 ## current and past affiliations
 
 The organisations, institutes, and programs I am currently working for (or under), or have worked for in the past.
