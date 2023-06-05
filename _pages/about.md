@@ -37,23 +37,27 @@ The organisations, institutes, and programs I am currently working for (or under
 <p align="center">
 
 <p style="display:flex; justify-content:space-between;">
-<a href="https://tensorflow.org" target="_blank"><img src="assets/img/tensorflow.png" style="width: 220px"/></a>
+<a href="https://tensorflow.org" target="_blank"><img src="assets/img/tensorflow.png" style="width: 340px"/></a>
 <a href="https://keras.io" target="_blank"><img src="assets/img/keras.png" style="width: 220px"/></a>
+</p>
+
+<p style="display:flex; justify-content:space-between;">
 <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="assets/img/gsoc.png" style="width: 180px"/></a>
-</p>
-
-<p style="display:flex; justify-content:space-between;">
-<a href="https://fluxml.ai" target="_blank"><img src="assets/img/fluxml.png" style="width: 220px"/></a>
-<a href="https://julialang.org" target="_blank"><img src="assets/img/julia.png" style="width: 220px"/></a>
 <a href="https://deepchem.io" target="_blank"><img src="assets/img/deepchem.png" style="width: 220px"/></a>
-<a href="https://nitw.ac.in" target="_blank"><img src="assets/img/nitw.png" style="width: 160px"/></a>
 </p>
 
 <p style="display:flex; justify-content:space-between;">
+<a href="https://fluxml.ai" target="_blank"><img src="assets/img/fluxml.png" style="width: 340px"/></a>
+<a href="https://julialang.org" target="_blank"><img src="assets/img/julia.png" style="width: 180px"/></a>
+<a href="https://nitw.ac.in" target="_blank"><img src="assets/img/nitw.png" style="width: 100px"/></a>
+</p>
+
+
 <a href="https://bnymellon.com" target="_blank"><img src="assets/img/bny.jpeg" style="width: 220px"/></a>
+
+
+<p style="display:flex; justify-content:space-between;">
 <a href="https://www.google.com/" target="_blank"><img src="assets/img/google.png" style="width: 320px"/></a>
 <a href="https://amazon.com" target="_blank"><img src="assets/img/amazon.png" style="width: 320px"/></a>
-<a href="https://deepforestsci.com" target="_blank"><img src="assets/img/deepforestsci.jpg" style="width: 220px"/></a>
-
 </p>
 
