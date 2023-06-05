@@ -25,3 +25,19 @@ I am currently interning at [BNY Mellon](https://www.bnymellon.com) as a Data Sc
 I've learned Data Science from Kaggle, where I am [Master](https://kaggle.com/shivanshuman/) in ranking tiers, where I mainly publish Notebooks on topics of my interests. I also am an active in discussions forums there.
 
 Feel free to reach me out on Linkedin or Twitter!
+
+## current and past affiliations
+
+The organisations, institutes, and programs I am currently working for (or under), or have worked for in the past.
+
+<p align="center"><a href="https://amazon.com" target="_blank"><img src="assets/img/amazon.png" style="width: 220px"/></a></p>
+<p align="center"><a href="https://bnymellon.com" target="_blank"><img src="assets/img/bny.jpeg" style="width: 220px"/></a></p>
+<p align="center"><a href="https://deepchem.io" target="_blank"><img src="assets/img/deepchem.png" style="width: 220px"/></a></p>
+<p align="center"><a href="https://deepforestsci.com" target="_blank"><img src="assets/img/deepforestsci.jpg" style="width: 220px"/></a></p>
+<p align="center"><a href="https://summerofcode.withgoogle.com" target="_blank"><img src="assets/img/gsoc.png" style="width: 220px"/></a></p>
+<p align="center"><a href="https://fluxml.ai" target="_blank"><img src="assets/img/fluxml.png" style="width: 220px"/></a></p>
+<p align="center"><a href="https://julialang.org" target="_blank"><img src="" style="width: 220px"/></a></p>
+<p align="center"><a href="https://nitw.ac.in" target="_blank"><img src="assets/img/nitw.png" style="width: 220px"/></a></p>
+<p align="center"><a href="https://tensorflow.org" target="_blank"><img src="" style="width: 220px"/></a></p>
+<p align="center"><a href="https://keras.io" target="_blank"><img src="" style="width: 220px"/></a></p>
+<p align="center"><a href="https://www.google.com/" target="_blank"><img src="assets/img/google.png" style="width: 220px"/></a></p>
