@@ -35,15 +35,15 @@ Feel free to reach me out on Linkedin or Twitter!
 The organisations, institutes, and programs I am currently working for (or under), or have worked for in the past.
 
 <p align="center">
-<p align="center"><a href="https://amazon.com" target="_blank"><img src="assets/img/amazon.png" style="width: 220px"/></a></p>
-<p align="center"><a href="https://bnymellon.com" target="_blank"><img src="assets/img/bny.jpeg" style="width: 220px"/></a></p>
-<p align="center"><a href="https://deepchem.io" target="_blank"><img src="assets/img/deepchem.png" style="width: 220px"/></a></p>
-<p align="center"><a href="https://deepforestsci.com" target="_blank"><img src="assets/img/deepforestsci.jpg" style="width: 220px"/></a></p>
-<p align="center"><a href="https://summerofcode.withgoogle.com" target="_blank"><img src="assets/img/gsoc.png" style="width: 220px"/></a></p>
-<p align="center"><a href="https://fluxml.ai" target="_blank"><img src="assets/img/fluxml.png" style="width: 220px"/></a></p>
-<p align="center"><a href="https://julialang.org" target="_blank"><img src="" style="width: 220px"/></a></p>
-<p align="center"><a href="https://nitw.ac.in" target="_blank"><img src="assets/img/nitw.png" style="width: 220px"/></a></p>
-<p align="center"><a href="https://tensorflow.org" target="_blank"><img src="" style="width: 220px"/></a></p>
-<p align="center"><a href="https://keras.io" target="_blank"><img src="" style="width: 220px"/></a></p>
-<p align="center"><a href="https://www.google.com/" target="_blank"><img src="assets/img/google.png" style="width: 220px"/></a></p>
+<a href="https://amazon.com" target="_blank"><img src="assets/img/amazon.png" style="width: 220px"/></a>
+<a href="https://bnymellon.com" target="_blank"><img src="assets/img/bny.jpeg" style="width: 220px"/></a>
+<a href="https://deepchem.io" target="_blank"><img src="assets/img/deepchem.png" style="width: 220px"/></a>
+<a href="https://deepforestsci.com" target="_blank"><img src="assets/img/deepforestsci.jpg" style="width: 220px"/></a>
+<a href="https://summerofcode.withgoogle.com" target="_blank"><img src="assets/img/gsoc.png" style="width: 220px"/></a>
+<a href="https://fluxml.ai" target="_blank"><img src="assets/img/fluxml.png" style="width: 220px"/></a>
+<a href="https://julialang.org" target="_blank"><img src="" style="width: 220px"/></a>
+<a href="https://nitw.ac.in" target="_blank"><img src="assets/img/nitw.png" style="width: 220px"/></a>
+<a href="https://tensorflow.org" target="_blank"><img src="" style="width: 220px"/></a>
+<a href="https://keras.io" target="_blank"><img src="" style="width: 220px"/></a>
+<a href="https://www.google.com/" target="_blank"><img src="assets/img/google.png" style="width: 220px"/></a>
 </p>
