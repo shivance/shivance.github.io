@@ -7,7 +7,7 @@ permalink: /
 # nav_order: 1
 profile:
   align: right
-  image: me_2.jpg
+  image: anshuman.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Pune, Maharashtra</p>
@@ -20,8 +20,14 @@ social: true  # includes social icons at the bottom of the page
 
 Hi ! I am Anshuman Mishra. I've just graduated from [NIT Warangal](https://nitw.ac.in/), India with [Electronics and Communication Engineering](https://www.nitw.ac.in/path/?dept=/ece) major. My interest lies in Natural Language Processing, Software Engineering and Data Science.
 
-I am currently interning at [BNY Mellon](https://www.bnymellon.com) as a Data Scientist, where I am working on Deposit Models, Balancesheet forecasting, and Optimization problems. Previously, I used to  work in Risk and Fraud Detection team at [Amazon Pay](https://pay.amazon.com/). As an intern there, I developed a software for detecting abusive cashbacks on real-time transactions, from scratch.
+I am currently working as Machine Learning Engineer at a stealth startup [Flip](https://flip.ai). 
 
-I've learned Data Science from Kaggle, where I am [Master](https://kaggle.com/shivanshuman/) in ranking tiers, where I mainly publish Notebooks on topics of my interests. I also am an active in discussions forums there.
+Previously, 
 
-Feel free to reach me out on Linkedin or Twitter!
+  1. I have interned at [BNY Mellon](https://www.bnymellon.com) as a Data Scientist, where I am working on Deposit Models, Balancesheet forecasting, and Optimization problems. Previously, 
+  
+  2. I used to  work in Risk and Fraud Detection team at [Amazon Pay](https://pay.amazon.com/). As an intern there, I developed a software for detecting abusive cashbacks on real-time transactions, from scratch.
+
+I've learned Data Science and Machine Learning on my own. You can find me on [Kaggle](https://kaggle.com/shivanshuman/) too.
+
+The best way to reach me is twitter!
