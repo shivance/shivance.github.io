@@ -24,9 +24,9 @@ I am currently working as Machine Learning Engineer at a stealth startup [Flip](
 
 Previously, 
 
-  1. I have interned at [BNY Mellon](https://www.bnymellon.com) as a Data Scientist, where I am working on Deposit Models, Balancesheet forecasting, and Optimization problems. Previously, 
+1. I have interned at [BNY Mellon](https://www.bnymellon.com) as a Data Scientist, where I am working on Deposit Models, Balancesheet forecasting, and Optimization problems. Previously, 
   
-  2. I used to  work in Risk and Fraud Detection team at [Amazon Pay](https://pay.amazon.com/). As an intern there, I developed a software for detecting abusive cashbacks on real-time transactions, from scratch.
+2. I used to  work in Risk and Fraud Detection team at [Amazon Pay](https://pay.amazon.com/). As an intern there, I developed a software for detecting abusive cashbacks on real-time transactions, from scratch.
 
 I've learned Data Science and Machine Learning on my own. You can find me on [Kaggle](https://kaggle.com/shivanshuman/) too.
 
