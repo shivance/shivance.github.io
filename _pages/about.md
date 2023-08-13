@@ -18,16 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi ! I am Anshuman Mishra. I've just graduated from [NIT Warangal](https://nitw.ac.in/), India with [Electronics and Communication Engineering](https://www.nitw.ac.in/path/?dept=/ece) major. My interest lies in Natural Language Processing, Software Engineering and Data Science.
+Thanks for visiting! I'm Anshuman. My interest lies in Natural Language Processing, Software Engineering and Data Science.
 
-I am currently working as Machine Learning Engineer at a stealth startup [Flip](https://flip.ai). 
+I am doing **Google Summer of Code (GSoC) at TensorFlow**. and I am passionate about the work I do with Keras Team at Google. I am a long time contributor to [KerasNLP](https://github.com/keras-team/keras-nlp). I love speaking about my work that's why I always say yes to public talks! 
 
-Previously, 
+I've just graduated from [NIT Warangal](https://nitw.ac.in/) and have joined [**Flip**](https://flip.ai) Machine Learning Engineer. We are currently in stealth though. 
 
-1. I have interned at [BNY Mellon](https://www.bnymellon.com) as a Data Scientist, where I am working on Deposit Models, Balancesheet forecasting, and Optimization problems. Previously, 
-  
-2. I used to  work in Risk and Fraud Detection team at [Amazon Pay](https://pay.amazon.com/). As an intern there, I developed a software for detecting abusive cashbacks on real-time transactions, from scratch.
+Previously, I've interned at **Amazon** Payments and **Bank of New York** as Software Engineer and Data Scientist respectively. I've learned Data Science and Machine Learning on my own. 
 
-I've learned Data Science and Machine Learning on my own. You can find me on [Kaggle](https://kaggle.com/shivanshuman/) too.
-
-The best way to reach me is twitter!
+If you want to learn about my work you should visit my [GitHub](https://github.com/shivance) and [Kaggle](https://kaggle.com/shivanshuman/). I prefer [twitter](https://twitter.com/shivance_) for DMs.
