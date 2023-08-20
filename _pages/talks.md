@@ -10,11 +10,13 @@ I love to attend developer meetups, conferences, workshops and learn from them a
 
 ## given by me
 
-1. Spoke at Google I/O Extended'23 by GDG New Delhi on [Re-imagining Keras in the evolving ML ecosystem](https://docs.google.com/presentation/d/1_WEKc_9eD0In7vM5THlRFFsYUO1qmVhM_nggqPGYjSc/), Thoughtworks Gurugram, July 16, 2023. Here is the [Linkedin post](https://www.linkedin.com/posts/anshumon_kerasrevolution-mlinnovation-techtransformation-activity-7085902111648968705-PKRH?utm_source=share&utm_medium=member_desktop) for the event. Here is the announcement [tweet](https://twitter.com/TFUGKol/status/1679446640690864128?s=20).
+1. [KerasNLP for Starters](https://twitter.com/TFUGDurg/status/1691809601425932644?s=20) at Keras Community Day Durg by TFUG Durg. Here is the [deck](https://docs.google.com/presentation/d/1uH3bG0o46GfGmGeTrGJB3p-SbQ9vOUJ63xp9S4I8JxE/) and [recording](https://www.youtube.com/live/KinLN4lA6Bg?feature=share&t=3450) for the session.
 
-2. Spoke on **Taking KerasNLP on GenAI Ride** at Tensorflow User Group Kolkata on the occasion of [July ML Meetup](https://twitter.com/TFUGKol/status/1679446640690864128?s=20), Techno India University, Kolkata, 2023. Here is the [deck](https://docs.google.com/presentation/d/1D6yJXrvFtrEoW2duZDqC36QpjaZ2JZPxKn0WjDlISGA/) and here's the [recording](https://youtu.be/k6R6LJwHZPE) of the session.
+2. Spoke at Google I/O Extended'23 by GDG New Delhi on [Re-imagining Keras in the evolving ML ecosystem](https://docs.google.com/presentation/d/1_WEKc_9eD0In7vM5THlRFFsYUO1qmVhM_nggqPGYjSc/), Thoughtworks Gurugram, July 16, 2023. Here is the [Linkedin post](https://www.linkedin.com/posts/anshumon_kerasrevolution-mlinnovation-techtransformation-activity-7085902111648968705-PKRH?utm_source=share&utm_medium=member_desktop) for the event. Here is the announcement [tweet](https://twitter.com/TFUGKol/status/1679446640690864128?s=20).
 
-3. Organized **PyTorch Bootcamp** [Here](https://www.linkedin.com/posts/bdacc-nitw_pytorch-datascience-machinelearning-activity-6995740092191424513-GNxn?utm_source=share&utm_medium=member_desktop) is the announcement post.The presentation for the bootcamp can be found [here](https://drive.google.com/file/d/1v0gkL4ubmwCdSRaBx7-uptL-_ffRHPWw/view?usp=sharing), November 12, 2022, NIT Warangal.
+3. Spoke on **Taking KerasNLP on GenAI Ride** at Tensorflow User Group Kolkata on the occasion of [July ML Meetup](https://twitter.com/TFUGKol/status/1679446640690864128?s=20), Techno India University, Kolkata, 2023. Here is the [deck](https://docs.google.com/presentation/d/1D6yJXrvFtrEoW2duZDqC36QpjaZ2JZPxKn0WjDlISGA/) and here's the [recording](https://youtu.be/k6R6LJwHZPE) of the session.
+
+4. Organized **PyTorch Bootcamp** [Here](https://www.linkedin.com/posts/bdacc-nitw_pytorch-datascience-machinelearning-activity-6995740092191424513-GNxn?utm_source=share&utm_medium=member_desktop) is the announcement post.The presentation for the bootcamp can be found [here](https://drive.google.com/file/d/1v0gkL4ubmwCdSRaBx7-uptL-_ffRHPWw/view?usp=sharing), November 12, 2022, NIT Warangal.
 
 ## co-organized by me
 
