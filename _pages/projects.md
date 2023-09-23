@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Here are some cool projects that I have worked on!
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [opensource, fun, work, competition]
 horizontal: true
 ---
