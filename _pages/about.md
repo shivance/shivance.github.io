@@ -17,12 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Thanks for visiting! I'm Anshuman. My interest lies in Natural Language Processing, Software Engineering and Data Science.
-
-I am doing **Google Summer of Code (GSoC) at TensorFlow**. and I am passionate about the work I do with Keras Team at Google. I am a long time contributor to [KerasNLP](https://github.com/keras-team/keras-nlp). I love speaking about my work that's why I always say yes to public talks! 
+Thanks for visiting! I'm Anshuman. My interest lies in Machine Learning, Software Engineering and Natural Language Processing.
 
 I've just graduated from [NIT Warangal](https://nitw.ac.in/) and have joined [**Flip**](https://flip.ai) as **Machine Learning Engineer**. We are currently in stealth though. 
 
+I have done **Google Summer of Code (GSoC) at TensorFlow** and I am passionate about the work I do with Keras Team at Google. I am a long time contributor to [KerasNLP](https://github.com/keras-team/keras-nlp). I love speaking about my work that's and am currently exploring community building and dev rel in my free time. I occasionally participate in Kaggle Competitions, but I keep publisihing notebooks and datasets.
+
 Previously, I've interned at **Amazon** Payments and **Bank of New York** as Software Engineer and Data Scientist respectively. I've learned Data Science and Machine Learning on my own. 
 
-If you want to learn about my work you should visit my [GitHub](https://github.com/shivance) and [Kaggle](https://kaggle.com/shivanshuman/). I prefer [twitter](https://twitter.com/shivance_) for DMs.
+I prefer [twitter](https://twitter.com/shivance_) for DMs.
