@@ -24,6 +24,10 @@ Below are the blogs, articles, and tutorials I have written on Data Science, Mac
 
 * [Kaggle T4x2 multi-gpu training G2Net](https://www.kaggle.com/code/shivanshuman/kaggle-t4x2-multi-gpu-training-g2net)
 
+* [LB:0.23 Ensemble {CatBoost, XGBoost, LightGBM}](https://www.kaggle.com/code/shivanshuman/lb-0-23-ensemble-catboost-xgboost-lightgbm)
+
+* [LightGBM + Optuna Baseline](https://www.kaggle.com/code/shivanshuman/lightgbm-optuna-baseline)
+
 ### medium
 
 * [Interview with 2x Kaggle Grandmaster, Data Science Manager at Emirates NBD: Ravi Ramakrishnan](https://shivance.medium.com/interview-with-2x-kaggle-grandmaster-data-science-manager-at-emirates-nbd-ravi-ramakrishnan-3308a3936c07)
