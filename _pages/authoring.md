@@ -4,7 +4,6 @@ permalink: /authoring/
 title: "authoring"
 nav: true
 nav_order: 2
-horizontal: true
 ---
 
 Below are the blogs, articles, and tutorials I have written on Data Science, Machine Learning, and more.
