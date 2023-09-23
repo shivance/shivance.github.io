@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: "talks"
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 I love to attend developer meetups, conferences, workshops and learn from them as much as I can. I sometimes talk on a range of topics that I love the most. All the slides of my talks/sessions can be found below.
