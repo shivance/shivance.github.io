@@ -3,7 +3,7 @@ layout: page
 permalink: /authoring/
 title: "authoring"
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 Below are the blogs, articles, and tutorials I have written on Data Science, Machine Learning, and more.
