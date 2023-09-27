@@ -6,9 +6,9 @@ permalink: /
 # nav: true
 # nav_order: 1
 profile:
-  align: right
+  align: center
   image: anshu.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # address: <p>Kanpur, India</p>
 
 news: true  # includes a list of news items
