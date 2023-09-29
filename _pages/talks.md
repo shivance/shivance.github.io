@@ -10,7 +10,7 @@ I love to attend developer meetups, conferences, workshops and learn from them a
 
 ## given by me
 
-*
+* **Modular NLP Workflows with KerasNLP** at Keras Community Day by Google Developer Group Seattle on September 29. Here is the [post](https://x.com/margaretmz/status/1706717545007546491?s=20) and [deck](https://docs.google.com/presentation/d/1Stt8ng2sZ0ZcyT48tCBDHdNpBa34swYAuVzZnAlifVk/edit?usp=sharing) for my talk
 
 * **Supercharging Keras with WandB** at Keras Community Day by TensorFlow User Group Mumbai on September 23. Here is the [post]((https://x.com/tfugmumbai/status/1705456979756613978?s=20)) and here is [presentation](https://docs.google.com/presentation/d/13wsPiHsf0O7Nyyp8QuzaPIXHFS3Anh0fiu4likZ0QJA/edit?usp=sharing) for the session.
 
