@@ -11,3 +11,5 @@ The AI world is brimming with talent. Folks in the AI industry and the research 
 * [An Interview with **Ravi Ramakrishnan**, Kaggle Grandmaster](https://shivance.medium.com/interview-with-2x-kaggle-grandmaster-data-science-manager-at-emirates-nbd-ravi-ramakrishnan-3308a3936c07)
 
 * [An Interview with **Rajaswa Patil**, AI Research Associate at Postman Labs](https://medium.com/@sharmabhee/interview-with-rajaswa-patil-ai-researcher-at-postman-labs-4c4537f98ee)
+
+* [An Interview with **Matthew Watson**, Senior Software Engineer, Google](https://shivance.medium.com/interview-with-matthew-watson-keras-team-google-a5df3913ab95)
