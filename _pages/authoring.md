@@ -8,6 +8,12 @@ nav_order: 4
 
 Below are the blogs, articles, and tutorials I have written on Data Science, Machine Learning, and more.
 
+### weights & biases reports
+
+* [Supercharge KerasNLP Models with Wandb](https://wandb.ai/shivance/keras-nlp-x-wandb/reports/Supercharge-KerasNLP-Models-with-Wandb--Vmlldzo1Mjk1NjI2)
+
+* [Generating High-quality Images with SD.Next, HuggingFace Diffusers and W&B](https://wandb.ai/ml-colabs/automatic/reports/Generating-High-quality-Images-with-SD-Next-HuggingFace-Diffusers-and-W-B--Vmlldzo1NTYzMzQy)
+
 ### keras 
 
 * [Data Parallel Training with KerasNLP](https://keras.io/examples/nlp/data_parallel_training_with_keras_nlp/)

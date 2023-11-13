@@ -10,8 +10,6 @@ nav_order: 2
 
 * [Fix RotaryEmbedding import](https://github.com/keras-team/keras-nlp/pull/1217)
 
-* [https://github.com/keras-team/keras-nlp/pull/1213](https://github.com/keras-team/keras-nlp/pull/1213)
-
 * [Fix Autograph error with perplexity metric](https://github.com/keras-team/keras-nlp/pull/1211)
 
 * [Fix ModuleNotFoundError keras_nlp.models.xlnet](https://github.com/keras-team/keras-nlp/pull/1204)
