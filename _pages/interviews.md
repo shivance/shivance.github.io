@@ -13,3 +13,5 @@ The AI world is brimming with talent. Folks in the AI industry and the research 
 * [An Interview with **Rajaswa Patil**, AI Research Associate at Postman Labs](https://medium.com/@sharmabhee/interview-with-rajaswa-patil-ai-researcher-at-postman-labs-4c4537f98ee)
 
 * [An Interview with **Matthew Watson**, Senior Software Engineer, Google](https://shivance.medium.com/interview-with-matthew-watson-keras-team-google-a5df3913ab95)
+
+* [Interview with Aakash Kumar Nain, MLE at Merlyn Minds](https://medium.com/ai-chronicles/interview-with-aakash-kumar-nain-mle-at-merlyn-minds-785f0f2e147b)
