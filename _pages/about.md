@@ -25,4 +25,4 @@ I have done **Google Summer of Code (GSoC) at TensorFlow** and I am passionate a
 
 Previously, I've interned at **Amazon** Payments and **Bank of New York** as Software Engineer and Data Scientist respectively. I've learned Data Science and Machine Learning on my own. 
 
-I prefer [twitter](https://twitter.com/shivance_) for DMs.
+I prefer [twitter](https://twitter.com/anshuizme) for DMs.
